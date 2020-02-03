@@ -1,0 +1,2 @@
+# Chass-ballet-studio
+Chassé ballet studio one page site is made with Drupal 8. The site runs on a virtual Linux machine located in the private cloud of my school. I made a video with a brief introduction to the site and the code behind it.  This site is made for the imaginary ballet studio located in New York. I have designed the layout and style of the page. The process started with mock up design, which identified the regions and the blocks needed. Once the site's base was built I selected the images and created the content for the site.
